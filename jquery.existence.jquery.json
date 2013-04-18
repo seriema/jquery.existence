@@ -1,7 +1,7 @@
 {
   "name": "jquery.existence",
   "title": "jQuery Existence",
-  "description": "Simple semantic checks if elements exist.",
+  "description": "Simple semantic checks if elements exist. Supports Twitter Bower with `bower install jquery.existence`",
   "version": "0.1.0",
   "homepage": "https://github.com/seriema/jquery.existence",
   "author": {

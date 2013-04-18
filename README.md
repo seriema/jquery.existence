@@ -15,16 +15,14 @@ In your web page:
 <script src="dist/jquery.existence.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  if ($('.missing-class').missing())
+    return; // early exit when what you're looking for is missing
+
+  if ($('.some-class').exists())
+    // do something when you find what you're looking for
 });
 </script>
 ```
 
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
-
 ## Release History
-_(Nothing yet)_
+v0.1.0 - 19 april 2013 - first public release
