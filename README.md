@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/seriema/jquery.existence.png?branch=master)](https://travis-ci.org/seriema/jquery.existence)
+
 # jQuery Existence
 
 Simple semantic checks if elements exist.
