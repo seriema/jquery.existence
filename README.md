@@ -27,4 +27,5 @@ jQuery(function($) {
 ```
 
 ## Release History
+v0.1.1 - 19 april 2013 - fixed premature silliness
 v0.1.0 - 19 april 2013 - first public release
