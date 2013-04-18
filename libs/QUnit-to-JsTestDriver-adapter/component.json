@@ -1,0 +1,9 @@
+{
+  "name": "QUnit-to-JsTestDriver-adapter",
+  "version": "0.0.0",
+  "commit": "81a1db5574fbacadb0b89b8f109e8c5694209a8f",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/exnor/QUnit-to-JsTestDriver-adapter.git"
+  }
+}
