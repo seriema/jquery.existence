@@ -5,7 +5,6 @@
   "curly": false,
   "eqeqeq": true,
   "eqnull": true,
-  "es5": true,
   "forin": true,
   "immed": true,
   "jquery": true,
