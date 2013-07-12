@@ -1,9 +1,10 @@
 {
   "name": "jquery.existence",
+  "version": "0.1.1",
   "title": "jQuery Existence",
   "description": "Simple semantic checks if elements exist. Supports Twitter Bower with `bower install jquery.existence`",
-  "version": "0.1.1",
   "homepage": "https://github.com/seriema/jquery.existence",
+  "bugs": "https://github.com/seriema/jquery.existence/issues",
   "author": {
     "name": "John-Philip Johansson",
     "email": "seriema@gmail.com",
@@ -13,7 +14,6 @@
     "type": "git",
     "url": "git://github.com/seriema/jquery.existence.git"
   },
-  "bugs": "https://github.com/seriema/jquery.existence/issues",
   "licenses": [
     {
       "type": "MIT",
@@ -23,5 +23,5 @@
   "dependencies": {
     "jquery": "*"
   },
-  "keywords": []
+  "keywords": ["exists", "missing", "semantic"]
 }
