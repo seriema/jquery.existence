@@ -1,4 +1,4 @@
-/*! jQuery Existence - v0.1.0 - 2013-04-19
+/*! jQuery Existence - v0.1.1 - 2013-07-12
 * https://github.com/seriema/jquery.existence
 * Copyright (c) 2013 John-Philip Johansson; Licensed MIT */
 (function ($) {
